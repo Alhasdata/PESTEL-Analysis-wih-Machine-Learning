@@ -14,6 +14,14 @@ Determined the indicators to consider then collected and cleaned data related fr
 
 Used a Principal Component Analysis to explore and understand data.
 
+**PCA** Model with sklearn.
+
 <img alt="MySQL" width="80%" src="./data/pca.png" style="padding-right:10px;" />
 
 ## Clustering
+
+Used Kmeans algorith to classify.
+
+**KMeans** Model with sklearn.
+
+<img alt="MySQL" width="50%" src="./data/kmeans_.png" style="padding-right:10px;" />
