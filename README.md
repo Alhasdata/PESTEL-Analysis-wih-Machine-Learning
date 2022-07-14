@@ -16,4 +16,6 @@ Determined the indicators to consider then collected and cleaned data related fr
 - two indicators related to food availability : **Imports quantity related to the product**.
 - two criteria that provide information on the **Continent** and M**embership of the European Union**.
 
+### Data Exploration
 
+Used a Principal Component Analysis to explore and understand data.
