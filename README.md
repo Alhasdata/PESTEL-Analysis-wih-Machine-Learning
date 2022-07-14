@@ -5,10 +5,10 @@ Implemented a non supervised algorithm (KMeans) with python and Sklearn in order
 ## Data Pre-processing
 
 Determined the indicators to consider then collected and cleaned data related from [FAOSTAT](https://www.fao.org/faostat/en/) and [World bank open data](https://donnees.banquemondiale.org/).
-- two macro-economic indicators that provide information on the country's wealth: **GDP per capita** and **GDP per capita growth**.
-- two socio-economic indicators : **Average population growth** and the **Political stability** of the country.
-- two indicators related to food availability : **Imports quantity related to the product**.
-- two criteria that provide information on the **Continent** and M**embership of the European Union**.
+- 2 macro-economic indicators that provide information on the country's wealth: **GDP per capita** and **GDP per capita growth**.
+- 2 socio-economic indicators : **Average population growth** and the **Political stability** of the country.
+- 2 indicators related to food availability : **Imports quantity related to the product**.
+- 2 criteria that provide information on the **Continent** and M**embership of the European Union**.
 
 ## Data Exploration
 
