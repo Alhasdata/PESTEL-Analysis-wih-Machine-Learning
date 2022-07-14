@@ -20,7 +20,7 @@ Used a Principal Component Analysis to explore and understand data.
 
 ## Clustering
 
-Used Kmeans algorith to classify.
+Used Kmeans algorithm to classify.
 
 **KMeans** Model with sklearn.
 
